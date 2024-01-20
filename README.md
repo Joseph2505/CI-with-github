@@ -6,8 +6,4 @@ run the code:
     python app.py
 
 the app runs on http://127.0.0.1:5000
-test!!!
-test the app:
-mes cooooo
-python -m unittest 
-
+Test
